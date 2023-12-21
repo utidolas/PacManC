@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1702693573 source:c:\users\likee\onedrive\햞ea de trabalho\programming\c\pacmanc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pacman.h"
+	"map.h"
+
+1702653741 c:\users\likee\onedrive\햞ea de trabalho\programming\c\pacmanc\pacman.h
+
+1702749600 c:\users\likee\onedrive\햞ea de trabalho\programming\c\pacmanc\map.h
+
+1702749712 source:c:\users\likee\onedrive\햞ea de trabalho\programming\c\pacmanc\map.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"map.h"
+
+1703202177 source:g:\meus documentos\documentos\professional\programming\c\pacmanc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pacman.h"
+	"map.h"
+	"ui.h"
+
+1703202509 g:\meus documentos\documentos\professional\programming\c\pacmanc\pacman.h
+
+1703202473 g:\meus documentos\documentos\professional\programming\c\pacmanc\map.h
+
+1703201693 source:g:\meus documentos\documentos\professional\programming\c\pacmanc\map.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"map.h"
+
+1703202705 g:\meus documentos\documentos\professional\programming\c\pacmanc\ui.h
+	"map.h"
+
+1703202755 source:g:\meus documentos\documentos\professional\programming\c\pacmanc\ui.c
+	<stdio.h>
+	<stdlib.h>
+	"ui.h"
+	"map.h"
+
